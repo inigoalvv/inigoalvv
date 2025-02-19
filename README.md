@@ -1,33 +1,30 @@
-# ¡Hola! Soy Iñigo Álvarez 👋  
+# ¡Hola! Soy Iñigo Alvarez 👋  
 
 🎓 **Estudiante de Ingeniería Informática** en la Universidad Autónoma de Madrid.  
-📍 **Intercambio en** Universitetet i Bergen (Noruega), especializado en **IA y Deep Learning**.  
+📍 **Intercambio en** Universidad Politecnica de Varsovia (Polonia).  
 🚀 **Estudiante en** 42 Madrid.  
-💻 **Apasionado por** la programación competitiva, algoritmia y compiladores.  
+💻 **Apasionado por** la ciberseguriadad, algoritmia e inteligencia artificial.  
 
 ---
 
 ## 🚀 Sobre mí  
 
-Soy un entusiasta del desarrollo de software y la innovación tecnológica. Actualmente, me encuentro en el último año de mi carrera y siempre estoy en búsqueda de nuevos retos y oportunidades de aprendizaje.  
-
-Me interesa especialmente la inteligencia artificial, la optimización de algoritmos y el desarrollo de software de alto rendimiento. Me encanta resolver problemas complejos y explorar nuevas tecnologías.  
+Tengo un gran conocimiento de la programación y me apasionan los campos de inteligencia artificial y ciberseguridad.
+Pasión por las nuevas tecnologías del mercado y por seguir aprendiendo y mejorando. 
+El trabajo en equipo, la organización del mismo y el pensamiento crítico son algunos de mis puntos fuertes.
 
 ---
 
 ## 📌 ¿Qué encontrarás aquí?  
 
-🔹 Proyectos personales y académicos en distintas tecnologías.  
-🔹 Retos de programación y algoritmia.  
-🔹 Experimentos en **IA, Deep Learning y compiladores**.  
-🔹 Contribuciones a la comunidad y colaboraciones.  
+🔹 Proyectos personales y académicos en distintas tecnologías.   
 
 ---
 
 ## 📊 GitHub Stats  
 
-![Iñigo Álvarez's GitHub stats](https://github-readme-stats.vercel.app/api?username=kitosforos&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kitosforos&layout=compact&theme=tokyonight)  
+![Iñigo Álvarez's GitHub stats](https://github-readme-stats.vercel.app/api?username=inigoalvv&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inigoalvv&layout=compact&theme=tokyonight)  
 
 ---
 
