@@ -1,7 +1,7 @@
 # ¡Hola! Soy Iñigo Alvarez 👋  
 
 🎓 **Estudiante de Ingeniería Informática** en la Universidad Autónoma de Madrid.  
-📍 **Intercambio en** Universidad Politecnica de Varsovia (Polonia).  
+📍 **Erasmus en** Universidad Politecnica de Varsovia (Polonia).  
 🚀 **Estudiante en** 42 Madrid.  
 💻 **Apasionado por** la ciberseguriadad, algoritmia e inteligencia artificial.  
 
