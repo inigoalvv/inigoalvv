@@ -30,8 +30,8 @@ El trabajo en equipo, la organización del mismo y el pensamiento crítico son a
 
 ## 📫 Contacto  
 
-🔗 **LinkedIn:** [Tu perfil aquí](#)  
-📧 **Email:** [Tu correo aquí](#)  
+<!--🔗 **LinkedIn:** [Tu perfil aquí](#)  -->
+📧 **Email:** [inigoa1903@gmail.com](#)  
 
 ---
 
