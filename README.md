@@ -23,7 +23,7 @@ El trabajo en equipo, la organización del mismo y el pensamiento crítico son a
 
 ## 📊 GitHub Stats  
 
-![Iñigo Álvarez's GitHub stats](https://github-readme-stats.vercel.app/api?username=inigoalvv&show_icons=true&theme=tokyonight)  
+![Iñigo Álvarez's GitHub stats](https://github-readme-stats.vercel.app/api?username=inigoalvv&show_icons=true&theme=tokyonight&cache_seconds=1800)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inigoalvv&layout=compact&theme=tokyonight)  
 
 ---
